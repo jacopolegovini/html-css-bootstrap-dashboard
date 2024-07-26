@@ -29,3 +29,7 @@ nav .input-bg-color {
     background-color: red;
     border: 1px dashed blue
 }
+
+td:nth-child(2) {
+    display: none;
+}
