@@ -30,6 +30,30 @@ nav .input-bg-color {
     border: 1px dashed blue
 }
 
+/* Main */
+/* Table */
+
 td:nth-child(2) {
     display: none;
+}
+
+.label {
+    padding: 3px 5px;
+    background-color: #198754;
+    color: white;
+    border-radius: 8px;
+    text-transform:capitalize;
+    font-size: 0.8rem;
+}
+
+.label-green {
+    background-color: #198754;
+}
+
+.label-yellow {
+    background-color: #FFC107;
+}
+
+.label-red {
+    background-color: #DC3545;
 }
