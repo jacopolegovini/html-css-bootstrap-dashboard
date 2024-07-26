@@ -1,0 +1,22 @@
+/* General */
+
+
+/* Utilitiew */
+
+.color-text-white * {
+    color: white;
+}
+
+/* Navbar */
+
+nav img {
+    max-width: 50px;
+}
+
+nav .input-bg-color {
+    background-color: white;
+}
+
+::placeholder {
+    color: black;
+}
