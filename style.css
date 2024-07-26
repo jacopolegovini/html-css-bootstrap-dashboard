@@ -20,3 +20,12 @@ nav .input-bg-color {
 ::placeholder {
     color: black;
 }
+
+/* Main */
+
+.box {
+    height: 100px;
+    min-width: 100px;
+    background-color: red;
+    border: 1px dashed blue
+}
