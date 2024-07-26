@@ -27,17 +27,10 @@ nav .input-bg-color {
 
 /* Main */
 
-.box {
-    height: 100px;
-    min-width: 100px;
-    background-color: red;
-    border: 1px dashed blue
-}
-
 /* Main */
 /* Table */
 
-/* td:nth-child(2) {
+td:nth-child(2) {
     display: none;
 }
 
@@ -45,9 +38,12 @@ nav .input-bg-color {
     td:nth-child(2) {
         display: block;
     }
-} */
+}
 
-.label {
+
+
+/* Sostituiti con i badge di Bootstrap */
+/* .label {
     padding: 3px 5px;
     background-color: #198754;
     color: white;
@@ -67,7 +63,7 @@ nav .input-bg-color {
 
 .label-red {
     background-color: #DC3545;
-}
+} */
 
 
 /* Index form */
