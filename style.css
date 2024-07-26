@@ -33,9 +33,15 @@ nav .input-bg-color {
 /* Main */
 /* Table */
 
-td:nth-child(2) {
+/* td:nth-child(2) {
     display: none;
 }
+
+@media screen and (min-width: 768px) {
+    td:nth-child(2) {
+        display: block;
+    }
+} */
 
 .label {
     padding: 3px 5px;
@@ -44,6 +50,7 @@ td:nth-child(2) {
     border-radius: 8px;
     text-transform:capitalize;
     font-size: 0.8rem;
+    text-align: center;
 }
 
 .label-green {
@@ -57,3 +64,7 @@ td:nth-child(2) {
 .label-red {
     background-color: #DC3545;
 }
+
+/* tr {
+    height: 55;
+} */
