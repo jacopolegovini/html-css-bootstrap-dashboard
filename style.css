@@ -21,8 +21,8 @@ nav .input-bg-color {
     background-color: white;
 }
 
-::placeholder {
-    color: black;
+input::placeholder {
+    --bs-secondary-color: rgb(99, 99, 99);
 }
 
 /* Main */
