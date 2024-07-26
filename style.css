@@ -69,6 +69,10 @@ nav .input-bg-color {
     background-color: #DC3545;
 }
 
-/* tr {
-    height: 55;
-} */
+
+/* Index form */
+
+.form-index-form label {
+    color: black;
+    font-weight: 500;
+}
